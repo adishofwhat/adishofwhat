@@ -2,6 +2,8 @@
 
 I’m a Data Science and AI enthusiast with a focus on building efficient data systems and machine learning solutions that make a real impact. I have hands-on experience in machine learning, data engineering, MLOps, and cloud technologies, and I enjoy solving complex real world problems by transforming raw data into actionable insights through scalable and practical data solutions. 
 
+I’m currently pursuing a Master of Science in Data Science at Rutgers University, where I focus on advanced topics like machine learning, deep learning, and cloud computing. Prior to this, I earned my Bachelor of Technology in Electronics and Communication from Nirma University. My academic journey has been both challenging and exciting, equipping me with a strong foundation in statistics, data science, and the theoretical underpinnings of Machine Learning and AI. I’ve always been curious about how things work, which is why I chose this field to apply my knowledge and problem-solving skills.
+
 Let's Connect! 👔 [LinkedIn](https://www.linkedin.com/in/adish-golechha/) 📧 [Mail](mailto:adish.golechha@rutgers.edu)
 
 ## 🈺 I have worked in several different roles involving
