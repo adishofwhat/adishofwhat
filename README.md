@@ -12,8 +12,11 @@ Let's Connect! 👔 [LinkedIn](https://www.linkedin.com/in/adish-golechha/) 📧
 - **MLOps:** Deploying and maintaining machine learning models in production, ensuring scalability and ease of monitoring.
 
 ## 🧊 Cool Projects I’ve Worked On
+- **OpenResearch**
+Built an AI-powered research assistant that breaks down queries, searches the web, and generates structured reports using LLMs and Agents. It’s like having a personal research analyst.
+
 - **Enterprise Knowledge Hub**
-Currently building a platform to make document retrieval smarter and faster using neural search and real-time analytics. It’s all about making knowledge easier to access when you need it the most.
+Built a platform to make document retrieval smarter and faster using neural search and real-time analytics. It’s all about making knowledge easier to access when you need it the most.
 
 - **Context-Aware News Search with SBERT**
 I designed a news search system that uses SBERT embeddings and ANNOY indexing to bring you the most relevant articles in a fraction of the time. It’s a fast, efficient way to filter through tons of content.
